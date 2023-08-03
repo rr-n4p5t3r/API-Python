@@ -51,7 +51,7 @@ sudo nano /etc/apache2/sites-available/000-default.conf
 NOTA: Se deben agregar los puertos que se habiliten en el archivo /etc/apache/ports.conf
 
 ## Descargar repositorio de la appApi en el home del usuario
-https://github.com/nestorsramosarteaga/pythonapi
+https://github.com/rrcyber/API-Python
 
 ## Cambiar de propietario a la carpeta flask
 sudo chown -R $USER:$USER /var/www/flask
