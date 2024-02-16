@@ -1,4 +1,4 @@
-# Desplegar API-Python en apache
+# Desplegar API-Python / Flask, en Apache
 
 ## Actualizar Repositorio
 sudo apt update
